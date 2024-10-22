@@ -1,11 +1,11 @@
-﻿# Conversor de Moedas
+﻿#  	:moneybag: Conversor de Moedas
 
 ## Projeto com taxa de câmbio dinâmica para conversão de moedas
 
 ### Funcionalidades
 
-- Conversor de moedas com interação textual
-- Faz requisições da API Exchange Rate API para calcular a taxa de conversão em tempo real
+- :coin: Conversor de moedas com interação textual
+- :chart: Faz requisições da API Exchange Rate API para calcular a taxa de conversão em tempo real
 
 Conversão das seguintes moedas:
 - ARS - Peso argentino
